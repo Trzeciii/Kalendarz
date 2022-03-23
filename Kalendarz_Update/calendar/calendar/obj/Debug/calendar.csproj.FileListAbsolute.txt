@@ -1,0 +1,8 @@
+D:\Programowanie\C#\Kalendarz_Update\calendar\calendar\obj\Debug\calendar.csproj.AssemblyReference.cache
+D:\Programowanie\C#\Kalendarz_Update\calendar\calendar\obj\Debug\calendar.csproj.SuggestedBindingRedirects.cache
+D:\Programowanie\C#\Kalendarz_Update\calendar\calendar\obj\Debug\calendar.csproj.CoreCompileInputs.cache
+D:\Programowanie\C#\Kalendarz_Update\calendar\calendar\bin\Debug\calendar.exe.config
+D:\Programowanie\C#\Kalendarz_Update\calendar\calendar\bin\Debug\calendar.exe
+D:\Programowanie\C#\Kalendarz_Update\calendar\calendar\bin\Debug\calendar.pdb
+D:\Programowanie\C#\Kalendarz_Update\calendar\calendar\obj\Debug\calendar.exe
+D:\Programowanie\C#\Kalendarz_Update\calendar\calendar\obj\Debug\calendar.pdb
